@@ -1,0 +1,42 @@
+Software Development Gold Badge Project Sprint Plan
+
+What needs to be completed by the due date? (e.g. how many console apps and what is required)
+
+
+What does the architecture of the all applications need to include? 
+	(e.g Repository Layer, UI Layer, Unit Tests, etc.)
+
+Have you created a GitHub repository for the application?
+
+What is the prompt requesting to be built? 
+	(summarize what the console app will do) 
+
+What type of collection should you utilize for the application requested by the prompt?
+
+What methods do you need to create the functionality the prompt is requesting?  
+	(e.g A method to Add an object to a dictionary, 
+	A method to Delete an object from a queue, 
+	a method to check if the user typed yes or no) 
+
+Create a schedule for the next week for when you will complete each console application/or what functionality for the apps you will complete each day. 
+
+
+Day 1 - Monday
+
+Day 2 - Tuesday
+
+Day 3 - Wednesday
+
+Day 4 - Thursday
+
+Day 5 - Friday
+
+
+
+
+
+
+
+
+
+

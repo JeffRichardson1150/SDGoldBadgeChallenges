@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_CafeMenu", "01_CafeMenu", "{3B5A242A-30A0-4D59-BC1D-D148A91BC99A}"
+	ProjectSection(SolutionItems) = preProject
+		CafeMenuChallenge.txt = CafeMenuChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_InsuranceClaims", "02_InsuranceClaims", "{949B0B57-7A77-4707-AB44-67FD77C8A913}"
+	ProjectSection(SolutionItems) = preProject
+		ClaimsChallenge.txt = ClaimsChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_AccessBadges", "03_AccessBadges", "{D38D264C-1CA8-44B7-94E0-1EFF02CB729F}"
+	ProjectSection(SolutionItems) = preProject
+		BadgesChallenge.txt = BadgesChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_CompanyOutings", "04_CompanyOutings", "{42266F00-A5FC-4FA0-B1FC-3FB5FA79E2DD}"
+	ProjectSection(SolutionItems) = preProject
+		CompanyOutingsChallenge.txt = CompanyOutingsChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_EmailGreeting", "05_EmailGreeting", "{91EE0864-18A4-4F51-85A2-1D12F504F069}"
+	ProjectSection(SolutionItems) = preProject
+		GreetingChallenge.txt = GreetingChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06_GreenPlan", "06_GreenPlan", "{499F55B4-6ECB-4BC4-A75D-9D973B3A62E6}"
+	ProjectSection(SolutionItems) = preProject
+		GreenPlanChallenge.txt = GreenPlanChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07_BarbecueCost", "07_BarbecueCost", "{8E6CD729-D861-4DAA-A08D-9E9A9D67CC75}"
+	ProjectSection(SolutionItems) = preProject
+		BarbecueChallenge.txt = BarbecueChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08_SmartInsurance", "08_SmartInsurance", "{E5CA392E-0138-4CDE-8042-C0A9E97D98CF}"
+	ProjectSection(SolutionItems) = preProject
+		SmartInsuranceChallenge.txt = SmartInsuranceChallenge.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00_PlanningAndGrading", "00_PlanningAndGrading", "{BAD13E52-9660-489A-ADCE-457D0536DBBD}"
+	ProjectSection(SolutionItems) = preProject
+		00_Planning.txt = 00_Planning.txt
+		01_Grading.txt = 01_Grading.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeMenu_Class", "CafeMenu_Class\CafeMenu_Class.csproj", "{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeMenu_Console", "CafeMenu_Console\CafeMenu_Console.csproj", "{26CF69DA-A9E6-47C0-B0C8-E74931B72C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeMenu_UnitTest", "CafeMenu_UnitTest\CafeMenu_UnitTest.csproj", "{49943444-78F9-4D58-9021-B9A3648CA58A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CF69DA-A9E6-47C0-B0C8-E74931B72C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CF69DA-A9E6-47C0-B0C8-E74931B72C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CF69DA-A9E6-47C0-B0C8-E74931B72C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CF69DA-A9E6-47C0-B0C8-E74931B72C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49943444-78F9-4D58-9021-B9A3648CA58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49943444-78F9-4D58-9021-B9A3648CA58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49943444-78F9-4D58-9021-B9A3648CA58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49943444-78F9-4D58-9021-B9A3648CA58A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74} = {3B5A242A-30A0-4D59-BC1D-D148A91BC99A}
+		{26CF69DA-A9E6-47C0-B0C8-E74931B72C7F} = {3B5A242A-30A0-4D59-BC1D-D148A91BC99A}
+		{49943444-78F9-4D58-9021-B9A3648CA58A} = {3B5A242A-30A0-4D59-BC1D-D148A91BC99A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B936D667-FDC3-4C57-8741-54400C1033FB}
+	EndGlobalSection
+EndGlobal

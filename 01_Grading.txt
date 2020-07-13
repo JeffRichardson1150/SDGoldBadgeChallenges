@@ -1,0 +1,322 @@
+Gold Badge Console Application Challenges
+
+Due Thursday by 5:30pm Points 73 Submitting a website url Available Jul 9 at 4:40pm - Jul 19 at 9pm 10 days
+You will need to build a minimum of three Console Applications (following the repository pattern we've used in class as well as including Unit Tests for the each repositories) for a minimum of three of the Gold Badge Console Application Challenge Prompts. If you complete three before the deadline then you are to continue building out these challenges.
+
+Requirements:
+A minimum of three (3) Console Applications built based on prompts linked above
+All applications will be built in one single solution
+Each project's architecture should include an assembly each for the ProgramUI, Repository, and Unit Tests
+A Unit Test assembly for each challenge with test coverage for all repository functionality
+Tests for the UI (Console Application) are not required but are highly encouraged
+Assemblies should have a consistent naming convention that helps identify related groups
+Examples:
+ChallengeOne.Console, ChallengeOne.Repository, etc
+Badges.Console, Badges.Repository, etc.
+No extra white space, proper naming convention of variables and classes
+A README attached to the project that documents the project
+Regular use of git while working through the project
+ 
+
+Submission:
+You will need to submit the link to your GitHub repository.
+
+If this is not submitted the assignment is not complete. USE GITHUB.
+
+Rubric
+Gold Badge Final
+
+Criteria / Ratings / Pts as follows:
+
+Criteria:	Solution Structure
+Ratings:	3.0 to >2.0 pts
+				Complete
+				The solution structure met requirements along with having organized assemblies that lent to the project having an overall cohesiveness.
+			2.0 to >0.0 pts
+				Basic
+				The solution structure met requirements, though with unorganized assemblies.
+			0.0 pts
+				Incomplete
+				The solution structure did not meet the requirements.
+Pts:		3.0 pts
+
+==============================================================
+
+Criteria:	Challenge One: Functional Code
+			Project Compiles/Runs when cloned or downloaded.
+Ratings:	6.0 to >3.0 pts
+				Proficient
+				Code runs when cloned with no changes required.
+			3.0 to >0.0 pts
+				Basic
+				Code runs when cloned after a few minor changes.
+			0.0 pts
+				Incomplete
+				Code does not run when cloned/ needs to many changes to run after being cloned
+Pts:		6.0 pts
+
+================================================================
+
+Criteria:	Challenge One: Repository
+			Repository Functionality (Back End).
+			This includes creation and implementation of required functionality.
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Student completed the required CRUD functionality while utilizing the repository pattern. All required functionality is successfully implemented.
+			4.0 to >3.0 pts
+				Basic
+				Student completed/implemented most of the required CRUD functionality while utilizing the repository pattern.
+			3.0 to >2.0 pts
+				In Progress
+				Student completed/implemented half or less of the required CRUD functionality while utilizing the repository pattern.
+			2.0 to >0.0 pts
+				Limited
+				Student completed/implemented a minimal amount of the required CRUD functionality while utilizing the repository pattern.
+			0.0 pts
+				Incomplete
+				Student did not complete/implement the required CRUD functionality or did not utilize the repository pattern.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge One: Console Application
+			Console Application User Interface (UI) Functionality (Front End). This includes creation and implementation of required functionality.
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Student completed the required functionality for the UI portion. Application runs with no issues.
+			4.0 to >3.0 pts
+				Basic
+				Student completed most of the required functionality for the UI portion and/or the application runs with a few issues.
+			3.0 to >2.0 pts
+				In Progress
+				Student completed half or less of the required functionality for the UI portion and/or the application has clear bugs/issues running.
+			2.0 to >0.0 pts
+				Limited
+				Student completed a minimal amount of the required functionality for the UI portion and/or the application has a large amount of issues running.
+			0.0 pts
+				Incomplete
+				Student did not complete the required functionality for the UI portion and/or the application does not run.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge One: Test Coverage
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Test assembly completed with tests for all CRUD functionality. All tests run and return a pass result.
+			4.0 to >3.0 pts
+				Basic
+				Test assembly completed with tests for most of the CRUD functionality and/or most of the tests run and return a pass result.
+			3.0 to >2.0 pts
+				In Progress
+				Test assembly completed with tests for some of the CRUD functionality and/or some of the tests run and return a pass result.
+			2.0 to >0.0 pts
+				Limited
+				Test assembly completed with tests for a minimal amount of the CRUD functionality and/or a minimal amount of the tests run and return a pass result
+			0.0 pts
+				Incomplete
+				Test assembly completed with no test for none of the CRUD functionality and/or none of the tests run.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge Two: Functional Code
+			Project Compiles/Runs when cloned or downloaded.
+Ratings:	6.0 to >3.0 pts
+				Proficient
+				Code runs when cloned with no changes required.
+			3.0 to >0.0 pts
+				Basic
+				Code runs when cloned after a few minor changes.
+			0.0 pts
+				Incomplete
+				Code does not run when cloned/ needs to many changes to run after being cloned
+Pts:		6.0 pts
+
+================================================================
+
+Criteria:	Challenge Two: Repository
+			Repository Functionality (Back End).
+			This includes creation and implementation of required functionality.
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Student completed the required CRUD functionality while utilizing the repository pattern. All required functionality is successfully implemented.
+			4.0 to >3.0 pts
+				Basic
+				Student completed/implemented most of the required CRUD functionality while utilizing the repository pattern.
+			3.0 to >2.0 pts
+				In Progress
+				Student completed/implemented half or less of the required CRUD functionality while utilizing the repository pattern.
+			2.0 to >0.0 pts
+				Limited
+				Student completed/implemented a minimal amount of the required CRUD functionality while utilizing the repository pattern.
+			0.0 pts
+				Incomplete
+				Student did not complete/implement the required CRUD functionality or did not utilize the repository pattern.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge Two: Console Application
+			Console Application User Interface (UI) Functionality (Front End). This includes creation and implementation of required functionality.
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Student completed the required functionality for the UI portion. Application runs with no issues.
+			4.0 to >3.0 pts
+				Basic
+				Student completed most of the required functionality for the UI portion and/or the application runs with a few issues.
+			3.0 to >2.0 pts
+				In Progress
+				Student completed half or less of the required functionality for the UI portion and/or the application has clear bugs/issues running.
+			2.0 to >0.0 pts
+				Limited
+				Student completed a minimal amount of the required functionality for the UI portion and/or the application has a large amount of issues running.
+			0.0 pts
+				Incomplete
+				Student did not complete the required functionality for the UI portion and/or the application does not run.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge Two: Test Coverage
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Test assembly completed with tests for all CRUD functionality. All tests run and return a pass result.
+			4.0 to >3.0 pts
+				Basic
+				Test assembly completed with tests for most of the CRUD functionality and/or most of the tests run and return a pass result.
+			3.0 to >2.0 pts
+				In Progress
+				Test assembly completed with tests for some of the CRUD functionality and/or some of the tests run and return a pass result.
+			2.0 to >0.0 pts
+				Limited
+				Test assembly completed with tests for a minimal amount of the CRUD functionality and/or a minimal amount of the tests run and return a pass result
+			0.0 pts
+				Incomplete
+				Test assembly completed with no test for none of the CRUD functionality and/or none of the tests run.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge Three: Functional Code
+			Project Compiles/Runs when cloned or downloaded.
+Ratings:	6.0 to >3.0 pts
+				Proficient
+				Code runs when cloned with no changes required.
+			3.0 to >0.0 pts
+				Basic
+				Code runs when cloned after a few minor changes.
+			0.0 pts
+				Incomplete
+				Code does not run when cloned/ needs to many changes to run after being cloned
+Pts:		6.0 pts
+
+================================================================
+
+Criteria:	Challenge Three: Repository
+			Repository Functionality (Back End).
+			This includes creation and implementation of required functionality.
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Student completed the required CRUD functionality while utilizing the repository pattern. All required functionality is successfully implemented.
+			4.0 to >3.0 pts
+				Basic
+				Student completed/implemented most of the required CRUD functionality while utilizing the repository pattern.
+			3.0 to >2.0 pts
+				In Progress
+				Student completed/implemented half or less of the required CRUD functionality while utilizing the repository pattern.
+			2.0 to >0.0 pts
+				Limited
+				Student completed/implemented a minimal amount of the required CRUD functionality while utilizing the repository pattern.
+			0.0 pts
+				Incomplete
+				Student did not complete/implement the required CRUD functionality or did not utilize the repository pattern.
+Pts:		5.0 pts
+
+================================================================
+
+This criterion is linked to a Learning Outcome
+Criteria:	Challenge Three: Console Application
+			Console Application User Interface (UI) Functionality (Front End). This includes creation and implementation of required functionality.
+Ratings:	5.0 to >4.0 pts
+			Proficient
+				Student completed the required functionality for the UI portion. Application runs with no issues.
+			4.0 to >3.0 pts
+				Basic
+				Student completed most of the required functionality for the UI portion and/or the application runs with a few issues.
+			3.0 to >2.0 pts
+				In Progress
+				Student completed half or less of the required functionality for the UI portion and/or the application has clear bugs/issues running.
+			2.0 to >0.0 pts
+				Limited
+				Student completed a minimal amount of the required functionality for the UI portion and/or the application has a large amount of issues running.
+			0.0 pts
+				Incomplete
+				Student did not complete the required functionality for the UI portion and/or the application does not run.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Challenge Three: Test Coverage
+Ratings:	5.0 to >4.0 pts
+				Proficient
+				Test assembly completed with tests for all CRUD functionality. All tests run and return a pass result.
+			4.0 to >3.0 pts
+				Basic
+				Test assembly completed with tests for most of the CRUD functionality and/or most of the tests run and return a pass result.
+			3.0 to >2.0 pts
+				In Progress
+				Test assembly completed with tests for some of the CRUD functionality and/or some of the tests run and return a pass result.
+			2.0 to >0.0 pts
+				Limited
+				Test assembly completed with tests for a minimal amount of the CRUD functionality and/or a minimal amount of the tests run and return a pass result
+			0.0 pts
+				Incomplete
+				Test assembly completed with no test for none of the CRUD functionality and/or none of the tests run.
+Pts:		5.0 pts
+
+================================================================
+
+Criteria:	Code Cleanliness
+			Naming Conventions, File Structure, White Space
+Ratings:	3.0 to >2.0 pts
+				Proficient
+				Student left no extra white space as well as maintained appropriate naming conventions for variables, methods and classes.
+			2.0 to >1.0 pts
+				Basic
+				Student left little extra white space and/or maintained mostly consistent naming conventions for variables, methods and classes.
+			1.0 to >0 pts
+				Incomplete
+				Student left a lot of extra white space and/or had inconsistent naming conventions for variables, methods and classes.
+Pts:		3.0 pts
+
+================================================================
+
+Criteria:	README
+Ratings:	4.0 to >2.0 pts
+				Complete
+				README is not only completed but is styled beyond a standard out of the box README.
+			2.0 to >0.0 pts
+				Basic
+				README is not completed with basic detail.
+			0.0 pts
+				Incomplete
+				README was not included in project.
+Pts:		4.0 pts
+
+================================================================
+
+Criteria:	Extra Credit
+			Place for any possible Extra Credit, if applicable.
+Ratings:	0.0 pts
+				Extra Credit
+				Extra Credit points given for items not otherwise listed on the rubric.
+			0.0 pts
+				No Marks
+				No Extra Credit.
+Pts:		0.0 pts
+
+
+================================================================
+
+Total Points: 73.0
