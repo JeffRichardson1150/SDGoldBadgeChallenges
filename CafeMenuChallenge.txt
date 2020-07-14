@@ -15,9 +15,29 @@ A price
 
 Your Task:
 Create a Menu Class with properties, constructors, and fields.
+//  public class Menu
+//  {
+//		int MealNumber{ get; set; }
+//		string MealName{ get; set; }
+//		string MealDescription{ get; set; }
+//		List MealIngredients{ get; set; }
+//		decimal MealPrice{ get; set; }
+//
+//		public Menu(){}
+//
+//		public Menu(....overloaded...){.....}
+//  }
 Create a MenuRepository Class that has methods needed.
+//	Methods:
+//		CreateNewMenuItem
+//		DeleteMenuItem
+//		ListAllMenuItems
+//		ShowRequestedMenuItem (I'll have the #5)
 Create a Test Class for your repository methods. (You don't need to test your constructors or objects, just your methods)
 Create a Program file that allows the cafe manager to add, delete, and see all items in the menu list.
+//	CafeMenuProgram - provides a menu of options and calls methods based on menu options selected.
+//	Alternatively: creates a new instance of CafeMenuProgramUI - calls UI.Run
+//	CafeMenuProgramUI - 
  
 
 Notes:

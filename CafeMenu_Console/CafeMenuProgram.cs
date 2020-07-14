@@ -10,6 +10,9 @@ namespace CafeMenu_Console
     {
         static void Main(string[] args)
         {
+            CafeMenuProgramUI ui = new CafeMenuProgramUI();
+            ui.Run();
+
         }
     }
 }

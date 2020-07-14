@@ -1,0 +1,6 @@
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\CafeMenu_Class\bin\Debug\CafeMenu_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\CafeMenu_Class\bin\Debug\CafeMenu_Class.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\CafeMenu_Class\obj\Debug\CafeMenu_Class.csprojAssemblyReference.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\CafeMenu_Class\obj\Debug\CafeMenu_Class.csproj.CoreCompileInputs.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\CafeMenu_Class\obj\Debug\CafeMenu_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\CafeMenu_Class\obj\Debug\CafeMenu_Class.pdb

@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CafeMenu_Class\CafeMenu_Class.csproj">
+      <Project>{63DFB8D5-A7BB-4F1C-A8BF-BF076E4D5D74}</Project>
+      <Name>CafeMenu_Class</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
