@@ -15,7 +15,7 @@ A price
 
 Your Task:
 Create a Menu Class with properties, constructors, and fields.
-//  public class Menu
+//  public class MenuItem
 //  {
 //		int MealNumber{ get; set; }
 //		string MealName{ get; set; }

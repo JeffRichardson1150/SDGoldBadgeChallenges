@@ -107,7 +107,7 @@ namespace CafeMenu_Console
 
         private int PromptForMealNumber()
         {
-            Console.WriteLine("Please enter a number for this meal.");
+            Console.WriteLine("Please enter a number for the meal you're adding.");
             int newMealNumber;
             bool checkForNumber = true;
 
@@ -211,11 +211,12 @@ private void DeleteMenuItem()
             // WRITE EACH MENU ITEM TO THE DISPLAY
             foreach (MenuItem menuItem in listOfAllMenuItems)
             {
-                Console.WriteLine($"#{menuItem.MealNumber}   {menuItem.MealName}                        ${menuItem.MealPrice}");
-                Console.WriteLine($"      {menuItem.MealDescription}");
-                Console.WriteLine($"      {menuItem.MealIngredients} \n\n");
+                Console.WriteLine($"#{menuItem.MealNumber,-5}" +
+                                  $"{menuItem.MealName,-45}" +
+                                  $"${menuItem.MealPrice,6}");
+                Console.WriteLine("         {0,-45}",menuItem.MealDescription);
+                Console.WriteLine("         {0,-45}\n\n", menuItem.MealIngredients);
             }
-            // Console.ReadLine();
 
         } // SeeAllMenuItems method
 
@@ -244,9 +245,9 @@ private void DeleteMenuItem()
 
         private void SeedTheList()
         {
-            MenuItem seedMenuItem1 = new MenuItem(1, "Farmer’s Market Bowl", "Fresh greens and vegetables direct from the Farmer's Market", "Baby spinach, quinoa, tomatoes, red onion, fresh mozzarella and green goddess dressing", 10.95m);
+            MenuItem seedMenuItem1 = new MenuItem(1, "Farmer’s Market Bowl", "Fresh greens and vegetables direct from the Farmer's Market.", "Baby spinach, quinoa, tomatoes, red onion, fresh mozzarella and green goddess dressing", 10.95m);
             MenuItem seedMenuItem2 = new MenuItem(2, "Wild Turkey Sandwich", "Don't be a turkey. Buy this sandwich.", "Roast turkey, brie, apple slices, mixed greens, & apple butter spread on a grilled ciabatta roll", 10.25m);
-            MenuItem seedMenuItem3 = new MenuItem(3, "Black Goat", "Try it. It's not baaaaa'd at all", "Roast turkey, whipped goat cheese, blackberry preserves and baby spinach on multi grain bread", 10.25m);
+            MenuItem seedMenuItem3 = new MenuItem(3, "Black Goat", "Try it. It's not baaaaa'd at all.", "Roast turkey, whipped goat cheese, blackberry preserves and baby spinach on multi grain bread", 10.25m);
             MenuItem seedMenuItem4 = new MenuItem(4, "Salmon BLT", "Swim upstream and enjoy.", "Blackened salmon with crispy bacon, baby spinach, roasted tomatoes, and pesto mayo on grilled ciabatta", 13.95m);
 
             _cafeMenuRepo.AddItemToMenu(seedMenuItem1);

@@ -1,0 +1,10 @@
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\obj\Debug\InsuranceClaims_Console.csprojAssemblyReference.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\obj\Debug\InsuranceClaims_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\bin\Debug\InsuranceClaims_Console.exe.config
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\bin\Debug\InsuranceClaims_Console.exe
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\bin\Debug\InsuranceClaims_Console.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\bin\Debug\InsuranceClaims_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\bin\Debug\InsuranceClaims_Class.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\obj\Debug\InsuranceClaims_Console.csproj.CopyComplete
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\obj\Debug\InsuranceClaims_Console.exe
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_Console\obj\Debug\InsuranceClaims_Console.pdb

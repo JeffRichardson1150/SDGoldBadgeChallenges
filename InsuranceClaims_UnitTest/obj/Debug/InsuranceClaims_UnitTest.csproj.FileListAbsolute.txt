@@ -1,0 +1,16 @@
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\InsuranceClaims_UnitTest.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\InsuranceClaims_UnitTest.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\InsuranceClaims_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\InsuranceClaims_Class.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\obj\Debug\InsuranceClaims_UnitTest.csprojAssemblyReference.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\obj\Debug\InsuranceClaims_UnitTest.csproj.CoreCompileInputs.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\obj\Debug\InsuranceClaims_UnitTest.csproj.CopyComplete
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\obj\Debug\InsuranceClaims_UnitTest.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\InsuranceClaims_UnitTest\obj\Debug\InsuranceClaims_UnitTest.pdb
