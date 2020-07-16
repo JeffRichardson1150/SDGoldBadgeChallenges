@@ -1,0 +1,16 @@
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\AccessBadges_UnitTest.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\AccessBadges_UnitTest.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\AccessBadges_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\AccessBadges_Class.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\obj\Debug\AccessBadges_UnitTest.csprojAssemblyReference.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\obj\Debug\AccessBadges_UnitTest.csproj.CoreCompileInputs.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\obj\Debug\AccessBadges_UnitTest.csproj.CopyComplete
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\obj\Debug\AccessBadges_UnitTest.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadges_UnitTest\obj\Debug\AccessBadges_UnitTest.pdb

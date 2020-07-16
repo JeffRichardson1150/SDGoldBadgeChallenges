@@ -33,7 +33,7 @@ namespace InsuranceClaims_UnitTest
         [TestMethod]
         public void MyTestMethod()
         {
-            Claim peekClaim = _claimQueue()
+            //Claim peekClaim = _claimQueue();
         }
     }
 }

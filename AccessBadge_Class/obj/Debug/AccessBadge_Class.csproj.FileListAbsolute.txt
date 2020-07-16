@@ -1,0 +1,6 @@
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadge_Class\obj\Debug\AccessBadge_Class.csprojAssemblyReference.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadge_Class\obj\Debug\AccessBadge_Class.csproj.CoreCompileInputs.cache
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadge_Class\bin\Debug\AccessBadge_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadge_Class\bin\Debug\AccessBadge_Class.pdb
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadge_Class\obj\Debug\AccessBadge_Class.dll
+C:\ElevenFiftySD\GoldBadge\GoldBadgeChallenges\AccessBadge_Class\obj\Debug\AccessBadge_Class.pdb

@@ -13,11 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_InsuranceClaims", "02_In
 		ClaimsChallenge.txt = ClaimsChallenge.txt
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_AccessBadges", "03_AccessBadges", "{D38D264C-1CA8-44B7-94E0-1EFF02CB729F}"
-	ProjectSection(SolutionItems) = preProject
-		BadgesChallenge.txt = BadgesChallenge.txt
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_CompanyOutings", "04_CompanyOutings", "{42266F00-A5FC-4FA0-B1FC-3FB5FA79E2DD}"
 	ProjectSection(SolutionItems) = preProject
 		CompanyOutingsChallenge.txt = CompanyOutingsChallenge.txt
@@ -61,6 +56,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceClaims_Class", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceClaims_UnitTest", "InsuranceClaims_UnitTest\InsuranceClaims_UnitTest.csproj", "{8C8D2E6A-5E5F-416F-BED5-6DE1B717BF58}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_AccessBadges", "03_AccessBadges", "{E9F3BBC3-2460-4285-A22F-EACA5B298017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessBadge_Console", "AccessBadge_Console\AccessBadge_Console.csproj", "{C5DC76D2-4B8E-44F1-94AD-D45E5D0309D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessBadge_Class", "AccessBadge_Class\AccessBadge_Class.csproj", "{D81697E6-2880-447F-9559-198A9613336D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessBadge_UnitTest", "AccessBadge_UnitTest\AccessBadge_UnitTest.csproj", "{8E5B2FA1-E76B-40B7-BBAC-47F45112CE3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +94,18 @@ Global
 		{8C8D2E6A-5E5F-416F-BED5-6DE1B717BF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C8D2E6A-5E5F-416F-BED5-6DE1B717BF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C8D2E6A-5E5F-416F-BED5-6DE1B717BF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DC76D2-4B8E-44F1-94AD-D45E5D0309D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DC76D2-4B8E-44F1-94AD-D45E5D0309D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DC76D2-4B8E-44F1-94AD-D45E5D0309D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DC76D2-4B8E-44F1-94AD-D45E5D0309D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81697E6-2880-447F-9559-198A9613336D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81697E6-2880-447F-9559-198A9613336D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81697E6-2880-447F-9559-198A9613336D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81697E6-2880-447F-9559-198A9613336D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5B2FA1-E76B-40B7-BBAC-47F45112CE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5B2FA1-E76B-40B7-BBAC-47F45112CE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5B2FA1-E76B-40B7-BBAC-47F45112CE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5B2FA1-E76B-40B7-BBAC-47F45112CE3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,6 +117,9 @@ Global
 		{6E74CC61-836B-42ED-B9A5-3C0D6C2064A4} = {949B0B57-7A77-4707-AB44-67FD77C8A913}
 		{C2215AE9-6AAA-4A42-AC1B-7BC2F8EBB204} = {949B0B57-7A77-4707-AB44-67FD77C8A913}
 		{8C8D2E6A-5E5F-416F-BED5-6DE1B717BF58} = {949B0B57-7A77-4707-AB44-67FD77C8A913}
+		{C5DC76D2-4B8E-44F1-94AD-D45E5D0309D4} = {E9F3BBC3-2460-4285-A22F-EACA5B298017}
+		{D81697E6-2880-447F-9559-198A9613336D} = {E9F3BBC3-2460-4285-A22F-EACA5B298017}
+		{8E5B2FA1-E76B-40B7-BBAC-47F45112CE3E} = {E9F3BBC3-2460-4285-A22F-EACA5B298017}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B936D667-FDC3-4C57-8741-54400C1033FB}
